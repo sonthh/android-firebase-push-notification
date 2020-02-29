@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase Cloud Messaging</string>
+    <string name="quickstart_message">booth genie</string>
+    <string name="subscribe_token">Call server endpoint</string>
+    <string name="log_token">Log Token</string>
+    <string name="msg_subscribed">Subscribed token</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Weather</string>
+    <string name="msg_subscribe_failed">Failed to subscribe token</string>
+    <string name="fcm_message">FCM Message</string>
+</resources>
